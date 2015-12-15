@@ -6,6 +6,10 @@ Run analysis
 
 Save table 
 
-Save small figure
+Make header bold
+
+Make small figure
+
+
 #Add a line
 #Add another line
